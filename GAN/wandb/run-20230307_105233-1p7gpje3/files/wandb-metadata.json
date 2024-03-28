@@ -1,0 +1,290 @@
+{
+    "os": "Linux-5.4.0-89-generic-x86_64-with-glibc2.17",
+    "python": "3.8.13",
+    "heartbeatAt": "2023-03-07T02:52:38.340995",
+    "startedAt": "2023-03-07T02:52:33.630166",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "main-13",
+    "username": "zhoujianping",
+    "executable": "/home/zhoujianping/miniconda3/envs/torch3090/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 48,
+    "cpu_freq": {
+        "current": 845.5413958333332,
+        "min": 800.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 800.263,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.106,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.219,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.043,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.316,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1279.193,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.124,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.598,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1848.861,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.701,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1286.175,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.902,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.082,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.175,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.746,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.485,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.412,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.948,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.877,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.904,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.746,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 805.344,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.472,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.818,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.463,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.929,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.915,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.247,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.19,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1599.038,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.706,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.291,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1893.545,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.028,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1381.475,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.287,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.332,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.433,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.442,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.509,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.276,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.37,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.644,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.687,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.764,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 831.738,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.583,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 800.217,
+            "min": 800.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 195.8613052368164,
+        "used": 88.5045051574707
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 4,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25447170048
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25447170048
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25447170048
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25447170048
+        }
+    ],
+    "memory": {
+        "total": 502.5800361633301
+    }
+}
